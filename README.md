@@ -48,6 +48,7 @@ This project successfully demonstrates methods for reducing power consumption in
 ![image](https://github.com/user-attachments/assets/2002ef80-c971-48f6-8579-68b926ace6e0)
 
 ## Final Parameter Comparision Table
+![image](https://github.com/user-attachments/assets/3007a7c6-f90d-4d63-b10b-167367666cd9)
 
 
 
