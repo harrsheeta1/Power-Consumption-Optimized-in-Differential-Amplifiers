@@ -1,5 +1,5 @@
 # Power-Consumption-Optimized-in-Differential-Amplifiers
-This is the Project I made in the Minor Project-2. The project includes the design, simulation, and analysis of differential amplifier circuits using different load types.
+This is the Project I made in the Minor Project-2 during my 3rd year at JIIT . The project includes the design, simulation, and analysis of differential amplifier circuits using different load types.
 
 ## What is Differential Amplifier 
 A differential amplifier amplifies the voltage difference between two inputs while rejecting any voltage common to both. It is widely used in analog circuits, operational amplifiers, and sensor applications. Its effectiveness is often evaluated by the Common-Mode Rejection Ratio (CMRR), which determines how well it rejects noise and interference.
